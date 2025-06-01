@@ -1,4 +1,3 @@
-# lab-bkp-velero-localstack-k8s
 
 ## 🧪 **Lab: Backup de Cluster Kubernetes Local com Velero e LocalStack S3**
 
