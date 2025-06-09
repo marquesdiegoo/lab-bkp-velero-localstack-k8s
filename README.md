@@ -223,6 +223,7 @@ NAME    READY   STATUS    RESTARTS   AGE
 nginx   1/1     Running   0          26s
 ```
 
+---
 
 ## 🧼 Cleanup
 
